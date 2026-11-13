@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <!-- Top Roof -->
+  <path
+    d="M 50 8 L 85 28 L 85 35 L 67 35 L 50 23 L 33 35 L 15 35 L 15 28 Z"
+    fill="white"
+  />
+  
+  <!-- Upper Right Z (Z2) -->
+  <path
+    d="M 52 30 L 85 30 L 65 44 L 85 44 L 85 52 L 52 52 L 72 38 L 52 38 Z"
+    fill="white"
+  />
+
+  <!-- Lower Left Z (Z1) -->
+  <path
+    d="M 15 48 L 48 48 L 28 62 L 48 62 L 48 70 L 15 70 L 35 56 L 15 56 Z"
+    fill="white"
+  />
+
+  <!-- Bottom Roof -->
+  <path
+    d="M 50 92 L 15 72 L 15 65 L 33 65 L 50 77 L 67 65 L 85 65 L 85 72 Z"
+    fill="white"
+  />
+</svg>
